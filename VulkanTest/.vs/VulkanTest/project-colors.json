@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70909056-91fe-4fa6-90db-87e5881e80a5": {
+      "ProjectGuid": "70909056-91fe-4fa6-90db-87e5881e80a5",
+      "DisplayName": "VulkanTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
